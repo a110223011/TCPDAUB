@@ -163,6 +163,7 @@ namespace TCPDAUB
                 string send;
                 send = "A";//紀錄開始繪圖座標
                 Send(send);
+
             }
             else
             {
